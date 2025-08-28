@@ -9,7 +9,7 @@ import Vanille from '../assets/Vaniile.jpg'
 import nuit from '../assets/nuit.jpg'
 import reve from '../assets/chogan8.jpg'
 import energie from '../assets/plan2.jpg'
-import heroBackground from '../assets/plan1.jpg'
+import heroBackground from '../assets/pLan1.jpg'
 import ProductCard from "../components/ProductCard";
 import {  Link } from 'react-router-dom';
 
