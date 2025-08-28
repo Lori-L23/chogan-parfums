@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Chogan Noir",
+    "description": "Un parfum intense et mystérieux pour homme, avec des notes de bois et d'épices.",
+    "price": 89,
+    "image": "noir.jpg",
+    "category": "homme",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "Chogan Rose",
+    "description": "Une fragrance florale et délicate pour femme, avec des notes de rose et de vanille.",
+    "price": 79,
+    "image": "rose.jpg",
+    "category": "femme",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "Chogan Oud",
+    "description": "Un mélange luxueux d'oud et d'épices rares, pour un parfum envoûtant.",
+    "price": 120,
+    "image": "oud.jpg",
+    "category": "unisexe",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "name": "Chogan Citrus",
+    "description": "Une explosion de fraîcheur avec des notes d'agrumes et de menthe.",
+    "price": 65,
+    "image": "citrus.jpg",
+    "category": "unisexe",
+    "featured": false
+  }
+]
