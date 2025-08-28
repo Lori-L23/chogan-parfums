@@ -8,6 +8,7 @@ import energie from '../assets/plan2.jpg'
 import { useState } from "react";
 import Header from '../layouts/header'
 import Footer from '../layouts/footer'
+import ProductCard from "../components/ProductCard";
 
 
 
