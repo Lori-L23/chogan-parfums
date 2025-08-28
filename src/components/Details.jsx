@@ -1,3 +1,8 @@
+import { useParams } from "react-router-dom";
+import Header from "../layouts/header";
+import Footer from "../layouts/footer";
+
+
 // Composant ProductDetail
 const ProductDetail = () => {
   const { id } = useParams();
