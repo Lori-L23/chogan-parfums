@@ -1,6 +1,13 @@
 import { useParams } from "react-router-dom";
 import Header from "../layouts/header";
 import Footer from "../layouts/footer";
+import Chogannoir from '../assets/chogan1.jpg'
+import Chogannrose from '../assets/chogan1.jpg'
+import Chogan from '../assets/chogan4.jpg'
+import Vanille from '../assets/Vaniile.jpg'
+import nuit from '../assets/nuit.jpg'
+import reve from '../assets/chogan8.jpg'
+import energie from '../assets/plan2.jpg'
 
 
 // Composant ProductDetail
