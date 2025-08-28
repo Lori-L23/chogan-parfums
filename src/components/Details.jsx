@@ -1,4 +1,4 @@
-import { useParams } from "react-router-dom";
+import { useParams, Link } from "react-router-dom";
 import Header from "../layouts/header";
 import Footer from "../layouts/footer";
 import Chogannoir from '../assets/chogan1.jpg'
