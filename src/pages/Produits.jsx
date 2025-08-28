@@ -6,6 +6,8 @@ import nuit from '../assets/nuit.jpg'
 import reve from '../assets/chogan8.jpg'
 import energie from '../assets/plan2.jpg'
 import { useState } from "react";
+import Header from '../layouts/header'
+import Footer from '../layouts/footer'
 
 
 
